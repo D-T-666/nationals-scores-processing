@@ -1,6 +1,6 @@
 # ეროვნული გამოცდების შედეგების დამუშავება
 
-ეს jupyter notebook-ი იღებს გამოქვეყნებულ PDF ფაილს, აქცევს TSV (Tab Separated Values) ფაილად და შემდეგ ფილტრავს/ახარისხებს მხოლოდ საკონკურსო ქულის მიხედვით.
+This jupyter notebook extracts the data from the PDF published by [naec.ge](https://naec.ge) containing the scores of students and the universities/schools they got accepted to.
 
 ### [შედეგი](data/sorted-scores.tsv)
 
